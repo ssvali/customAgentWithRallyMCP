@@ -1,0 +1,10 @@
+{
+"servers": {
+  "rally": {
+    "url": "https://mcp.rallydev.com/mcp",
+    "headers": {
+      "Authorization": "Bearer <token>"
+    }
+  }
+}
+}
